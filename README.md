@@ -46,7 +46,7 @@ You can run the notebook in Google Colab:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 - Python 3.9+
 - pandas
@@ -63,12 +63,12 @@ pip install -r requirements.txt
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Developed by [@Drink1water1](https://github.com/Drink1water1)
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source under the [MIT License](LICENSE)
