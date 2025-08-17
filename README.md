@@ -65,7 +65,8 @@ pip install -r requirements.txt
 
 ## Author
 
-Developed by [@SeifMagdy66]
+
+Developed by [@SeifMagdy66][https://github.com/SeifMagdy66]
 
 ---
 
